@@ -1,0 +1,1 @@
+# Lexico2-Automatas
